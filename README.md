@@ -1,4 +1,6 @@
-# 🎓 Virtual AI Tutor 1.0
+# 🎓 Virtual AI Tutor 
+
+LINK: https://virtualaitutor.streamlit.app/
 
 An intelligent, AI-powered learning assistant built with **Streamlit** and **OpenAI**. Generate comprehensive study notes, interactive assessments, educational slideshows, and contextual illustrations from a single topic prompt.
 
